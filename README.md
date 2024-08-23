@@ -9,7 +9,7 @@ Before using these scripts, ensure you have:
 - Access to the Amazon S3 bucket containing the data.
 - The ARN of the AWS IAM role with the required permissions to access the S3 bucket.
 
-## Key Steps in the Migration Process
+### Key Steps in the Migration Process
 1 File Format Creation
 
 - Define the file format in Snowflake to read and interpret data from Parquet files.
